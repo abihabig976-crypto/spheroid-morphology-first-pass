@@ -57,8 +57,4 @@ buys you, rather than only that people use it.
 Open `spheroid_morphology_first_pass.ipynb` in Google Colab → Runtime → Run all.
 Nothing to install.
 
-## Honesty
 
-Written with AI assistance as a tutor, working from documentation. I can explain
-every line and every choice in it; that was the condition I set myself for putting
-it up. The scientific content is not novel and is not meant to be.
